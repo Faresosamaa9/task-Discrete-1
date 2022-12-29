@@ -1,0 +1,8 @@
+D:\prime number 1\prime number 1\bin\Debug\prime number 1.exe.config
+D:\prime number 1\prime number 1\bin\Debug\prime number 1.exe
+D:\prime number 1\prime number 1\bin\Debug\prime number 1.pdb
+D:\prime number 1\prime number 1\obj\Debug\prime number 1.csproj.AssemblyReference.cache
+D:\prime number 1\prime number 1\obj\Debug\prime number 1.csproj.SuggestedBindingRedirects.cache
+D:\prime number 1\prime number 1\obj\Debug\prime number 1.csproj.CoreCompileInputs.cache
+D:\prime number 1\prime number 1\obj\Debug\prime number 1.exe
+D:\prime number 1\prime number 1\obj\Debug\prime number 1.pdb
